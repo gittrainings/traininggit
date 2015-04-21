@@ -5,4 +5,15 @@ class ProductsController
 	{
 		echo __METHOD__;
 	}
+
+	public function edit()
+	{
+
+	}
+
+	public function new()
+	{
+		
+	}
+	
 }
